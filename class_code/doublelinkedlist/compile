@@ -1,0 +1,1 @@
+g++ dlist.h main.cpp -o dlist

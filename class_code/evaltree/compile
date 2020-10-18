@@ -1,0 +1,1 @@
+g++ evaltree.h main.cpp -o evaltree

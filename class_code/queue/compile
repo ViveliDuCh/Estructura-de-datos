@@ -1,0 +1,1 @@
+g++ queue.h main.cpp -o queue

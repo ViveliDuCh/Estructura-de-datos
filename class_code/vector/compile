@@ -1,0 +1,1 @@
+g++ vector.h main.cpp -o vector

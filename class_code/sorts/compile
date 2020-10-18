@@ -1,0 +1,1 @@
+g++ sorts.h main.cpp -o sorts

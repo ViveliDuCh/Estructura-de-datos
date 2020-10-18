@@ -1,0 +1,1 @@
+g++ timer.h main.cpp -o timer

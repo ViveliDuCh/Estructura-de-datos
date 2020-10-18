@@ -1,0 +1,1 @@
+g++ stacksandqueues.h main.cpp -o stacksandqueues
